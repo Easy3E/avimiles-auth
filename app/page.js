@@ -1,1 +1,0 @@
-export default function Home(){return <main style={{maxWidth:680,margin:"80px auto",padding:24}}><h1>✈️ AviMiles</h1><p>Roblox account connection service is online.</p><p>Start linking from Discord using <b>/linkroblox</b>.</p></main>}
